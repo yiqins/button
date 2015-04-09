@@ -1,0 +1,21 @@
+*{
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+		   -box-sizing: border-box;
+}
+
+#canvas{
+	width:1000px;
+}
+
+.button{
+	font-size: 20px;
+	padding-top: 1px;
+	width: 100px;
+	height: 50px;
+	border-top: 10px;
+	border-color: blue;
+	text-align: center;
+	display: inline-block;
+	margin-top: 10px;
+}  
